@@ -1,5 +1,5 @@
 
-# Udacity iOS nanodegree Project (2) - Meme 1.0
+# Udacity iOS Nanodegree Project (2) - Meme 1.0
 
 By Sameer Almutairi
 
